@@ -1,5 +1,3 @@
-package anilkali;
-
 public class Vehicle {
     int no_of_seats;
     int no_of_wheels;
